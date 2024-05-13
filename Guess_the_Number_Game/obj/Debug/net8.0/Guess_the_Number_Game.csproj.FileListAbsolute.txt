@@ -1,0 +1,14 @@
+c:\Users\jeste\OneDrive\Documentos\Codigos C#\Guess the number game\Guess_the_Number_Game\bin\Debug\net8.0\Guess_the_Number_Game.exe
+c:\Users\jeste\OneDrive\Documentos\Codigos C#\Guess the number game\Guess_the_Number_Game\bin\Debug\net8.0\Guess_the_Number_Game.deps.json
+c:\Users\jeste\OneDrive\Documentos\Codigos C#\Guess the number game\Guess_the_Number_Game\bin\Debug\net8.0\Guess_the_Number_Game.runtimeconfig.json
+c:\Users\jeste\OneDrive\Documentos\Codigos C#\Guess the number game\Guess_the_Number_Game\bin\Debug\net8.0\Guess_the_Number_Game.dll
+c:\Users\jeste\OneDrive\Documentos\Codigos C#\Guess the number game\Guess_the_Number_Game\bin\Debug\net8.0\Guess_the_Number_Game.pdb
+c:\Users\jeste\OneDrive\Documentos\Codigos C#\Guess the number game\Guess_the_Number_Game\obj\Debug\net8.0\Guess_the_Number_Game.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\jeste\OneDrive\Documentos\Codigos C#\Guess the number game\Guess_the_Number_Game\obj\Debug\net8.0\Guess_the_Number_Game.AssemblyInfoInputs.cache
+c:\Users\jeste\OneDrive\Documentos\Codigos C#\Guess the number game\Guess_the_Number_Game\obj\Debug\net8.0\Guess_the_Number_Game.AssemblyInfo.cs
+c:\Users\jeste\OneDrive\Documentos\Codigos C#\Guess the number game\Guess_the_Number_Game\obj\Debug\net8.0\Guess_the_Number_Game.csproj.CoreCompileInputs.cache
+c:\Users\jeste\OneDrive\Documentos\Codigos C#\Guess the number game\Guess_the_Number_Game\obj\Debug\net8.0\Guess_the_Number_Game.dll
+c:\Users\jeste\OneDrive\Documentos\Codigos C#\Guess the number game\Guess_the_Number_Game\obj\Debug\net8.0\refint\Guess_the_Number_Game.dll
+c:\Users\jeste\OneDrive\Documentos\Codigos C#\Guess the number game\Guess_the_Number_Game\obj\Debug\net8.0\Guess_the_Number_Game.pdb
+c:\Users\jeste\OneDrive\Documentos\Codigos C#\Guess the number game\Guess_the_Number_Game\obj\Debug\net8.0\Guess_the_Number_Game.genruntimeconfig.cache
+c:\Users\jeste\OneDrive\Documentos\Codigos C#\Guess the number game\Guess_the_Number_Game\obj\Debug\net8.0\ref\Guess_the_Number_Game.dll
